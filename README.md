@@ -1,8 +1,7 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! 👋
 
-Hi there! I’m Daksh Arora, a Java Developer with experience in various technologies. Here are some of my key projects:
+Hi, I’m **Daksh**, a Java Developer who loves building efficient and secure applications. I’m always excited to learn, collaborate, and solve real-world problems through tech.
 
-- **[QuickMPay](https://github.com/DakshArora342/QuickMPay)**: A system for managing fund deposits and commission earnings.
-- **[Incident Management System](https://github.com/DakshArora342/Incident-Management-System)**: A REST API for incident management with features like auto-selection of location based on Pin code.
+Feel free to connect if you want to chat or collaborate on something cool!
 
-Feel free to explore and connect with me!
+📧 [Email](aroratheaksh@gmail.com)
