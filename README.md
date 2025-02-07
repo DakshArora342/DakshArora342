@@ -5,4 +5,4 @@ I'm a **Java Developer** passionate about building clean, secure, and efficient 
 Feel free to connect if you're interested in chatting or collaborating on exciting projects!
 
 📧 [aroratheaksh@gmail.com](mailto:aroratheaksh@gmail.com)  
-🔗 [LinkedIn: www.linkedin.com/in/daksharora](https://www.linkedin.com/in/daksharora342)
+🔗 [LinkedIn: www.linkedin.com/in/daksharora342](https://www.linkedin.com/in/daksharora342)
