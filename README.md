@@ -4,4 +4,4 @@ Hi, I’m **Daksh**, a Java Developer who loves building efficient and secure ap
 
 Feel free to connect if you want to chat or collaborate on something cool!
 
-📧 [Email](aroratheaksh@gmail.com)
+📧 [aroratheaksh@gmail.com](mailto:aroratheaksh@gmail.com)
