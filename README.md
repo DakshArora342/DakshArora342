@@ -1,8 +1,25 @@
-**Hi, I'm Daksh! 👋**
+# Hi, I'm Daksh Arora.
 
-I'm a **Java Developer** passionate about building clean, secure, and efficient applications. I specialize in **backend development**, **Spring Boot**, **REST APIs**, and **microservices architecture**. I’m always eager to learn and solve real-world problems with technology. Collaboration and continuous growth are what drive me.
+I am a **Backend Software Engineer** focused on building resilient, scalable systems.
 
-Feel free to connect if you're interested in chatting or collaborating on exciting projects!
+My work centers on the Java ecosystem, where I specialize in designing microservices that handle data reliability and complex business logic. I am currently deep-diving into distributed systems patterns, ensuring that when services fail, data isn't lost.
 
-📧 [aroratheaksh@gmail.com](mailto:aroratheaksh@gmail.com)  
-🔗 [LinkedIn: www.linkedin.com/in/daksharora342](https://www.linkedin.com/in/daksharora342)
+### 🛠️ Technical Stack
+* **Core:** Java (SE/EE), Data Structures & Algorithms
+* **Backend Frameworks:** Spring Boot, Spring Data JPA, Hibernate
+* **Messaging & Async:** RabbitMQ, Event-Driven Architecture
+* **Database:** PostgreSQL, MySQL
+* **Tools & DevOps:** Docker, Git, Postman, Maven
+
+### 🚀 Featured Engineering
+**1. Courier Connect (Reliability Service)**
+* Built a fault-tolerant webhook delivery system that guarantees message delivery even when downstream services are offline.
+* Implemented **Exponential Backoff** (2s, 4s, 8s...) to prevent cascading failures and server overload.
+* Used **RabbitMQ** with Dead Letter Queues (DLQ) to isolate and handle failed messages asynchronously.
+
+**2. LoveLink (Full Stack)**
+* A real-time matchmaking platform featuring **WebSocket** integration for live chat.
+* Secured with Spring Security & JWT; optimized for concurrency to handle multiple active user sessions.
+
+---
+[LinkedIn](https://www.linkedin.com/in/daksharora342) • [Email](mailto:aroratheaksh@gmail.com)
