@@ -1,6 +1,6 @@
 # Hi, I'm Daksh Arora.
 
-I am a **Backend Software Engineer** focused on building resilient, scalable systems.
+I am a **Software Engineer** focused on building resilient, scalable systems.
 
 My work centers on the Java ecosystem, where I specialize in designing microservices that handle data reliability and complex business logic. I am currently deep-diving into distributed systems patterns, ensuring that when services fail, data isn't lost.
 
